@@ -1,0 +1,25 @@
+div{
+    margin-left: 36%;
+    margin-top: 10%;
+}
+div p{
+    float: left;
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    border-radius: 2px;
+    padding: 10px 20px;
+    border: 1px solid;
+    border-color: rgb(201, 197, 197);
+    color: rgb(64, 129, 248);
+    cursor: pointer;
+}
+div p:hover{
+    float: left;
+    background-color: rgb(177, 171, 171);
+    font-size: 50px;
+    border-radius: 2px;
+    padding: 10px 20px;
+    border: 1px solid;
+    border-color: rgb(201, 197, 197);
+    color: rgb(64, 129, 248);
+}
